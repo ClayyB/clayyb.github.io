@@ -1,11 +1,44 @@
 body {
     background-color: rgb(228, 183, 222);
+    font-family: "Inconsolata";
 }
 
-.site-title {
+[id="site-header"] {
+    width: 100%;
+}
+
+[id="link-bar"] {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    background-color: beige;
+}
+
+.title {
     background-color: aqua;
 }
 
 .section-header {
     background-color: aquamarine;
 }
+
+/* LINKS */
+ /* unvisited link */
+ a:link {
+    color: hotpink;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: lightpink;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: pink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: lightpink;
+  } 
