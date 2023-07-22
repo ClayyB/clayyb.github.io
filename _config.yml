@@ -23,8 +23,8 @@ email: clarissabarratt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Clarissa, and this is my website! It's a work in progress at the minute,
   but prepare to be whelmed by what it will become.
-baseurl: "/clayyb/" # the subpath of your site, e.g. /blog
-url: "https://my-site.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://clayyb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: clayyb93
 github_username:  ClayyB
 
